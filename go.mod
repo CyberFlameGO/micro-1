@@ -54,8 +54,8 @@ require (
 	github.com/xlab/treeprint v0.0.0-20181112141820-a009c3971eca
 	go.etcd.io/bbolt v1.3.5
 	go.uber.org/atomic v1.6.0 // indirect
-	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897
-	golang.org/x/net v0.0.0-20201202161906-c7110b5ffcbb
+	golang.org/x/crypto v0.14.0
+	golang.org/x/net v0.17.0
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013
 	google.golang.org/grpc v1.27.0
 	google.golang.org/protobuf v1.25.0
